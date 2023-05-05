@@ -6,5 +6,5 @@ Go to the master branch to access the material and learn something new.
 ## Just check the file path while it being read in the R/python
 
 ## Link to the blogs:
-    1. https://medium.com/@ShankiiZ_/autocorrelation-function-acf-vs-partial-autocorrelation-function-pacf-228f9cf5a81 
-    2. https://medium.com/@ShankiiZ_/residual-analysis-in-time-series-612a450b08f5
+    #. https://medium.com/@ShankiiZ_/autocorrelation-function-acf-vs-partial-autocorrelation-function-pacf-228f9cf5a81 
+    #. https://medium.com/@ShankiiZ_/residual-analysis-in-time-series-612a450b08f5
