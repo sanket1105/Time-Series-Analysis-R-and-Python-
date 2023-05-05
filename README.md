@@ -5,4 +5,4 @@ Go to the master branch to access the material and learn something new.
 
 ## Just check the file path while it being read in the R/python
 
-Link to the blog: https://medium.com/@ShankiiZ_/autocorrelation-function-acf-vs-partial-autocorrelation-function-pacf-228f9cf5a81
+## Link to the blog: https://medium.com/@ShankiiZ_/autocorrelation-function-acf-vs-partial-autocorrelation-function-pacf-228f9cf5a81
