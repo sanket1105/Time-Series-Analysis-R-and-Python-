@@ -1,0 +1,4 @@
+This is the project on non-seasonal dataset of "Cardano" Cryptocurrency dataset.
+This was a non-stationary dataset and used the statistical methods to make it stationary.
+Used ACF-PACF to get the order for ARIMA model.
+GARCH model was the best model for the analysis and forecasting the price of the currency.
